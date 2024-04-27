@@ -1,13 +1,13 @@
-/* Estilos para o corpo da página */
+
 body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f9f9f9; /* Fundo cinza claro */
-    color: #333; /* Letras pretas */
+    background-color: #f9f9f9; 
+    color: #333; 
 }
 
-/* Estilos para o cabeçalho */
+
 header {
     background-color: #000;
     color: #fff;
@@ -17,15 +17,15 @@ header {
 
 header h1 {
     margin: 5px 0;
-    font-size: 2em; /* Tamanho grande para o nome */
+    font-size: 2em; 
 }
 
 header h2 {
     margin: 5px 0;
-    font-size: 1.5em; /* Tamanho médio para a profissão */
+    font-size: 1.5em; 
 }
 
-/* Estilos para as seções */
+
 section {
     padding: 20px;
     margin-bottom: 20px;
@@ -35,7 +35,7 @@ section {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Estilos para o rodapé */
+
 footer {
     background-color: #000;
     color: #fff;
@@ -43,7 +43,7 @@ footer {
     padding: 20px 0;
 }
 
-/* Estilos para os projetos */
+
 .project {
     margin-bottom: 20px;
 }
@@ -58,9 +58,9 @@ footer {
     margin-top: 10px;
 }
 
-/* Estilos para links */
+
 a {
-    color: #007bff; /* Azul para links */
+    color: #007bff; 
     text-decoration: none;
 }
 
@@ -68,7 +68,7 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Media query para responsividade */
+
 @media (max-width: 768px) {
     header h1 {
         font-size: 1.5em;
